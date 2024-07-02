@@ -3,7 +3,15 @@
 
 ### Hi there, I'm Oishe!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I'm a new web developer passionate about building beautiful and functional web applications. Here are some technologies I’m currently learning and working with:
+I'm a new web developer passionate about building beautiful and functional web applications.
+
+## About Me
+🚀 I am Oishee, a passionate web developer focused on crafting user-centric web applications. My journey into coding started with a curiosity for creating digital experiences that are both visually appealing and functional. 
+
+🌟 With a strong foundation in HTML, CSS, and JavaScript, I am expanding my skills in frameworks like React and backend technologies such as Node.js and MongoDB.
+
+🔍 I am currently exploring opportunities to contribute to impactful projects and further develop my expertise in full-stack development.
+
 
 ## Skills 🚀
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -19,14 +27,6 @@ I'm a new web developer passionate about building beautiful and functional web a
 ## 🔭 Projects
 I am working on several projects that involve the technologies mentioned above. Feel free to check them out!
 
-## About Me
-🚀 I am Oishee, a passionate web developer focused on crafting user-centric web applications. My journey into coding started with a curiosity for creating digital experiences that are both visually appealing and functional. 
-
-🌟 With a strong foundation in HTML, CSS, and JavaScript, I am expanding my skills in frameworks like React and backend technologies such as Node.js and MongoDB.
-
-🔍 I am currently exploring opportunities to contribute to impactful projects and further develop my expertise in full-stack development.
-
-
 ## 🌱 Learning Goals
 - Deepen my understanding of frontend and backend development.
 - Contribute to open-source projects.
@@ -34,9 +34,9 @@ I am working on several projects that involve the technologies mentioned above. 
 
 
 ## GitHub Activity
+
 ### Commit Count
 ![Oishee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oishee90&show_icons=true&count_private=true&theme=radical)
-
 
 
 ### Daily Streak
@@ -45,8 +45,6 @@ I am working on several projects that involve the technologies mentioned above. 
 
 ### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oishee90&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&text_color=FFFFFF&hide_border=true)
-
-
 
 
 ## 📫 How to reach me
