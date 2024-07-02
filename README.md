@@ -59,5 +59,5 @@ I love coding and continuously strive to improve my skills. When I'm not coding,
 
 ---
 
-⭐️ From [Oishe](https://github.com/your-github-username)
+⭐️ From [Oishe](https://github.com/Oishee90)
 
