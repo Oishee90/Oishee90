@@ -34,7 +34,8 @@ I am working on several projects that involve the technologies mentioned above. 
 
 ## GitHub Activity
 ### Commit Count
-![Oishee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oishee90&show_icons=true&count_private=true)
+![Oishee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oishee90&show_icons=true&count_private=true&theme=radical)
+
 
 ### Daily Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90)](https://github.com/Oishee90)
