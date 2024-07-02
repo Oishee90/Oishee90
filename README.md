@@ -38,10 +38,12 @@ I am working on several projects that involve the technologies mentioned above. 
 
 
 ### Daily Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90)](https://github.com/Oishee90)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90&theme=dark&background=0D1117&ring=1CAAD9&fire=DD2727)](https://github.com/Oishee90)
+
 
 ### Top Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oishee90&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oishee90&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&text_color=FFFFFF&hide_border=true)
+
 
 
 
