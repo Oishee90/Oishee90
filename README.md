@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+Oishee's+GitHub+Profile)
+![Banner](https://www.canva.com/design/DAGJyQ1hxGI/GPzvkszQBe-ovcQT80TFJw/edit?utm_content=DAGJyQ1hxGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Hi there, I'm Oishee! 👋
 
