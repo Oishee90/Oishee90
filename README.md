@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAGJyQ1hxGI/GPzvkszQBe-ovcQT80TFJw/edit?utm_content=DAGJyQ1hxGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Oishee90 - Web Developer](https://i.ibb.co/5RFCFQ4/Get-started-in-Canva.png)
 
 # Hi there, I'm Oishee! 👋
 
