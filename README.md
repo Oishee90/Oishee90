@@ -1,6 +1,7 @@
 ![Oishee90 - Web Developer](https://i.ibb.co/5RFCFQ4/Get-started-in-Canva.png)
 
-# Hi there, I'm Oishee! 👋
+
+### Hi there, I'm Oishee!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 I'm a new web developer passionate about building beautiful and functional web applications. Here are some technologies I’m currently learning and working with:
 
