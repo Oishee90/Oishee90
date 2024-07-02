@@ -27,10 +27,18 @@ I am Oishee, a passionate web developer focused on crafting user-centric web app
 - Contribute to open-source projects.
 - Build full-stack applications.
 
-- ## GitHub Activity
+## GitHub Activity
 
 ### Commit Count
 ![Total Commits](https://img.shields.io/github/commit-activity/m/Oishee90/a05-bus-ticket-website)
+
+### Daily Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90)
+
+### Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oishee90&layout=compact)
+
+
 
 ## 📫 How to reach me
 - [![Gmail Badge](https://img.shields.io/badge/-oisheekhan90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oisheekhan90@gmail.com)
