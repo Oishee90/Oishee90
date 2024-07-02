@@ -51,7 +51,7 @@ I am working on several projects that involve the technologies mentioned above. 
 
 ## 📫 How to reach me
 - [![Gmail Badge](https://img.shields.io/badge/-oisheekhan90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oisheekhan90@gmail.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed)
+- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oishee-khan-509ba12b0)
 
 
 ## ⚡ Fun fact
