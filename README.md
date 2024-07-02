@@ -21,7 +21,7 @@ I am working on several projects that involve the technologies mentioned above. 
 - Build full-stack applications.
 
 ## 📫 How to reach me
-- **Email:** [![Gmail Badge](https://img.shields.io/badge/-your-email@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:oisheekhan90@gmail.com)](mailto:oisheekhan90@gmail.com)
+- **Email:** [![Gmail Badge](https://img.shields.io/badge/-oisheekhan90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:oisheekhan90@gmail.com)](mailto:oisheekhan90@gmail.com)
 - **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/feed)
 
 ## ⚡ Fun fact
