@@ -19,10 +19,18 @@ I'm a new web developer passionate about building beautiful and functional web a
 ## 🔭 Projects
 I am working on several projects that involve the technologies mentioned above. Feel free to check them out!
 
+## About Me
+I am Oishee, a passionate web developer focused on crafting user-centric web applications. My journey into coding started with a curiosity for creating digital experiences that are both visually appealing and functional. With a strong foundation in HTML, CSS, and JavaScript, I am expanding my skills in frameworks like React and backend technologies such as Node.js and MongoDB. I am currently exploring opportunities to contribute to impactful projects and further develop my expertise in full-stack development.
+
 ## 🌱 Learning Goals
 - Deepen my understanding of frontend and backend development.
 - Contribute to open-source projects.
 - Build full-stack applications.
+
+- ## GitHub Activity
+
+### Commit Count
+![Total Commits](https://img.shields.io/github/commit-activity/m/Oishee90/your-repository-name)
 
 ## 📫 How to reach me
 - [![Gmail Badge](https://img.shields.io/badge/-oisheekhan90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oisheekhan90@gmail.com)
