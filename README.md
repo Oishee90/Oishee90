@@ -30,7 +30,7 @@ I am Oishee, a passionate web developer focused on crafting user-centric web app
 - ## GitHub Activity
 
 ### Commit Count
-![Total Commits](https://img.shields.io/github/commit-activity/m/Oishee90/your-repository-name)
+![Total Commits](https://img.shields.io/github/commit-activity/m/Oishee90/[your-repository-name](https://github.com/Oishee90/a05-bus-ticket-website))
 
 ## 📫 How to reach me
 - [![Gmail Badge](https://img.shields.io/badge/-oisheekhan90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oisheekhan90@gmail.com)
