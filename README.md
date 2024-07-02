@@ -27,16 +27,15 @@ I am Oishee, a passionate web developer focused on crafting user-centric web app
 - Contribute to open-source projects.
 - Build full-stack applications.
 
-## GitHub Activity
-
 ### Commit Count
-![Total Commits](https://img.shields.io/github/commit-activity/m/Oishee90/a05-bus-ticket-website)
+[![Total Commits](https://img.shields.io/github/commit-activity/m/Oishee90/a05-bus-ticket-website)](https://github.com/Oishee90/a05-bus-ticket-website)
 
 ### Daily Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90)](https://github.com/Oishee90)
 
 ### Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oishee90&layout=compact)
+
 
 
 
