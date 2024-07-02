@@ -21,8 +21,8 @@ I am working on several projects that involve the technologies mentioned above. 
 - Build full-stack applications.
 
 ## 📫 How to reach me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com)
+- **Email:** [![Gmail Badge](https://img.shields.io/badge/-your-email@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:oisheekhan90@gmail.com)
+- **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/feed)
 
 ## ⚡ Fun fact
 I love coding and continuously strive to improve my skills. When I'm not coding, I enjoy reading and exploring new technologies.
