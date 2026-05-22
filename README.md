@@ -1,17 +1,19 @@
+![Oishee90 - Web Developer](https://i.ibb.co/5RFCFQ4/Get-started-in-Canva.png)
+
+
 ### Hi there, I'm Oishe!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 I'm a new web developer passionate about building beautiful and functional web applications.
 
 ## About Me
+🚀 I am Oishee, a passionate web developer focused on crafting user-centric web applications. My journey into coding started with a curiosity for creating digital experiences that are both visually appealing and functional. 
 
-🚀 I am Oishee, a passionate web developer focused on crafting user-centric web applications. My journey into coding started with a curiosity for creating digital experiences that are both visually appealing and functional.
-
-🌟 With a strong foundation in HTML, CSS, JavaScript, and TypeScript, I am expanding my skills in frameworks like React and backend technologies such as Node.js and MongoDB.
+🌟 With a strong foundation in HTML, CSS, and JavaScript, I am expanding my skills in frameworks like React and backend technologies such as Node.js and MongoDB.
 
 🔍 I am currently exploring opportunities to contribute to impactful projects and further develop my expertise in full-stack development.
 
-## Skills 🚀
 
+## Skills 🚀
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -29,38 +31,36 @@ I'm a new web developer passionate about building beautiful and functional web a
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 🔭 Projects
 
+## 🔭 Projects
 I am working on several projects that involve the technologies mentioned above. Feel free to check them out!
 
 ## 🌱 Learning Goals
-
 - Deepen my understanding of frontend and backend development.
 - Contribute to open-source projects.
 - Build full-stack applications.
 
+
 ## GitHub Activity
 
 ### Commit Count
-
 ![Oishee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oishee90&show_icons=true&count_private=true&theme=radical)
 
-### Daily Streak
 
+### Daily Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90&theme=dark&background=0D1117&ring=1CAAD9&fire=DD2727)](https://github.com/Oishee90)
 
-### Top Languages Used
 
+### Top Languages Used
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oishee90&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&text_color=FFFFFF&hide_border=true)
 
+
 ## 📫 How to reach me
-
 - [![Gmail Badge](https://img.shields.io/badge/-oisheekhan90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oisheekhan90@gmail.com)
-
 - [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oishee-khan-509ba12b0)
 
-## ⚡ Fun fact
 
+## ⚡ Fun fact
 I love coding and continuously strive to improve my skills. When I'm not coding, I enjoy reading and exploring new technologies.
 
 ---
