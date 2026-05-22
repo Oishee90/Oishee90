@@ -1,68 +1,119 @@
-![Oishee90 - Web Developer](https://i.ibb.co/5RFCFQ4/Get-started-in-Canva.png)
+<h1 align="center">
+  Hi 👋, I'm Oishee Khan
+</h1>
 
+<h3 align="center">
+  🚀 Frontend & MERN Stack Developer | Passionate About Building Modern Web Experiences
+</h3>
 
-### Hi there, I'm Oishe!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-
-I'm a new web developer passionate about building beautiful and functional web applications.
-
-## About Me
-🚀 I am Oishee, a passionate web developer focused on crafting user-centric web applications. My journey into coding started with a curiosity for creating digital experiences that are both visually appealing and functional. 
-
-🌟 With a strong foundation in HTML, CSS, and JavaScript, I am expanding my skills in frameworks like React and backend technologies such as Node.js and MongoDB.
-
-🔍 I am currently exploring opportunities to contribute to impactful projects and further develop my expertise in full-stack development.
-
-
-## Skills 🚀
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-
-## 🔭 Projects
-I am working on several projects that involve the technologies mentioned above. Feel free to check them out!
-
-## 🌱 Learning Goals
-- Deepen my understanding of frontend and backend development.
-- Contribute to open-source projects.
-- Build full-stack applications.
-
-
-## GitHub Activity
-
-### Commit Count
-![Oishee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oishee90&show_icons=true&count_private=true&theme=radical)
-
-
-### Daily Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90&theme=dark&background=0D1117&ring=1CAAD9&fire=DD2727)](https://github.com/Oishee90)
-
-
-### Top Languages Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oishee90&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&text_color=FFFFFF&hide_border=true)
-
-
-## 📫 How to reach me
-- [![Gmail Badge](https://img.shields.io/badge/-oisheekhan90@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oisheekhan90@gmail.com)
-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oishee-khan-509ba12b0)
-
-
-## ⚡ Fun fact
-I love coding and continuously strive to improve my skills. When I'm not coding, I enjoy reading and exploring new technologies.
+<div align="center">
+  <img src="https://i.ibb.co/5RFCFQ4/Get-started-in-Canva.png" alt="Oishee Banner" width="100%" />
+</div>
 
 ---
 
-⭐️ From [Oishe](https://github.com/Oishee90)
+## 🚀 About Me
 
-Thank you for visiting my profile!
+💻 Passionate MERN Stack Developer focused on building scalable, responsive, and user-centric web applications.
 
+🎯 Skilled in crafting modern frontend experiences using React, Next.js, Tailwind CSS, TypeScript, and Redux Toolkit.
+
+⚡ I enjoy transforming ideas into clean, interactive, and high-performance digital products.
+
+🌱 Currently expanding my expertise in backend architecture, API optimization, and full-stack application development.
+
+🔥 Dedicated to continuous learning, problem-solving, and creating impactful web solutions.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/-Next_JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+### ⚙️ State Management & Animation
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+---
+
+### 🔥 Backend & Database
+![Node.js](https://img.shields.io/badge/-Node_JS-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express_JS-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 🧠 Programming Language
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+- 🚀 Building scalable full-stack MERN applications
+- 🎨 Creating modern UI/UX experiences
+- ⚡ Improving performance & accessibility
+- 🔥 Exploring advanced Next.js architecture
+- 🌍 Contributing to impactful real-world projects
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Oishee90&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oishee90&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oishee90&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Oishee90)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:oisheekhan90@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/oishee-khan-509ba12b0">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ✨ Developer Quote
+
+> “Code is not just programming — it's about creating experiences that make people's lives easier.”
+
+---
+
+<div align="center">
+
+⭐️ From <a href="https://github.com/Oishee90">Oishee Khan</a>
+
+</div>
